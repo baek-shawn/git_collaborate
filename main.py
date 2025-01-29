@@ -1,7 +1,7 @@
 def calculator(a,b, mode="add"):
     # mode에 따라서 연산을 변경하는 로직구현
     if mode == "add":
-        print('cccc')
+        pass
     elif mode == "sub":
         pass
     elif mode == "mul":
