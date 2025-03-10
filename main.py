@@ -11,7 +11,7 @@ def calculator(a,b, mode="add"):
     else:
         print("정확한 연산을 넣어주세요.")
         
-        
+print('cccccc')
 
 
 a,b = map(int, input())
